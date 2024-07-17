@@ -63,7 +63,7 @@
     "@chakra-ui/core": "^0.8.0",
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.6.10",
-    "@emotion/react": "^11",
+    "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
