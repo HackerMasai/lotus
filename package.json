@@ -62,7 +62,7 @@
     "@babel/core": "^7.14.3",
     "@chakra-ui/core": "^0.8.0",
     "@chakra-ui/icons": "^1.1.7",
-    "@chakra-ui/react": "^1.6.10",
+    "@chakra-ui/react": "^1.8.9",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@semantic-release/changelog": "^5.0.1",
